@@ -48,8 +48,8 @@ foreach ($numbers['budget_dist'] as $key => $value) {
 		<!-- 
 		<script type="text/javascript" src="js/amcharts.js"></script>
 		-->
-		<script type="text/javascript" src="http://www.amcharts.com/lib/3/amcharts.js"></script>
-		<script type="text/javascript" src="http://www.amcharts.com/lib/3/pie.js"></script>
+		<script type="text/javascript" src="js/amcharts.js"></script>
+		<script type="text/javascript" src="js/pie.js"></script>
 
 		<!-- amCharts javascript code -->
 		<script type="text/javascript">
